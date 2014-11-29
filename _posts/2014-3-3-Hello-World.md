@@ -3,7 +3,7 @@ layout: post
 title: Cluster provisioning handbook
 ---
 
-# Cluster Provisioning Overview
+# Overview
 
 - [Overview](#overview)
 - [Key Concepts](#key-concepts)
